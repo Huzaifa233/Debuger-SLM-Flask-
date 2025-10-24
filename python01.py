@@ -1,1 +1,7 @@
 print("My Name is Huzaifa")
+print("I am learning Python programming.")
+print("I love coding!")
+print("Python is fun and versatile.")
+print("Let's build something amazing with Python.")
+print("Happy coding!")
+print("Goodbye!")
